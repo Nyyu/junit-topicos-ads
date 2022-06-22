@@ -1,4 +1,5 @@
 package com.example.project;
+import java.util.LinkedList;
 
 public class Turma {
     LinkedList<Double> bigL = new LinkedList<>();    
